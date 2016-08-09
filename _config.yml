@@ -12,3 +12,7 @@ color:
     - '#97CDCD'
     - '#1D283C'
 name: '-phile'
+navigation:
+  - name: Illustration
+    id: e0f94401-1477-40e3-828d-7aaf8c2bc6da
+    type: content
